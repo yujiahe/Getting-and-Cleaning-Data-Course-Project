@@ -95,9 +95,9 @@ the other variables are measurements, including:
 * fBodyBodyGyroJerkMag-std
 
 The labels for actvities are:
-*WALKING (coded as 1): subject walking during the test
-*WALKING_UPSTAIRS (coded as 2): subject walking up a staircase during the test
-*WALKING_DOWNSTAIRS (coded as 3): subject walking down stairs during the test
-*SITTING (coded as 4): subject sitting during the test
-*STANDING (coded as 5): subject standing during the test
-*LAYING (coded as 6): subject laying down during the test
+* WALKING (coded as 1): subject walking during the test
+* WALKING_UPSTAIRS (coded as 2): subject walking up a staircase during the test
+* WALKING_DOWNSTAIRS (coded as 3): subject walking down stairs during the test
+* SITTING (coded as 4): subject sitting during the test
+* STANDING (coded as 5): subject standing during the test
+* LAYING (coded as 6): subject laying down during the test

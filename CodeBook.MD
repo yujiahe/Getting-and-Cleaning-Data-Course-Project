@@ -27,14 +27,14 @@ In the tidy_data_2.txt (the clean and tidy final dataset), the identifiers are:
 *activity - the performed activity of the test subject
 
 the other variables are measurements, including:
-*tBodyAcc-mean-X
-*tBodyAcc-mean-Y
-*tBodyAcc-mean-Z
-*tBodyAcc-std-X
-*tBodyAcc-std-Y
-*tBodyAcc-std-Z
-*tGravityAcc-mean-X
-*tGravityAcc-mean-Y
+* tBodyAcc-mean-X
+* tBodyAcc-mean-Y
+* tBodyAcc-mean-Z
+* tBodyAcc-std-X
+* tBodyAcc-std-Y
+* tBodyAcc-std-Z
+* tGravityAcc-mean-X
+* tGravityAcc-mean-Y
 *tGravityAcc-mean-Z
 *tGravityAcc-std-X
 *tGravityAcc-std-Y
